@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(210, 226, 252);
+}
+
+h2{
+    
+    border-bottom: 2px solid black;
+    width: fit-content;
+    text-align: center;
+    margin-left: 38%;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    
+}
+
+
+table tr th{
+    color:rgb(227, 113, 113);
+    /* width: 100%; */
+    text-align: center;
+
+}
+
+td{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h4{
+    text-align: right;
+    margin-right: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.btn{
+    margin-left: 300px;
+}
